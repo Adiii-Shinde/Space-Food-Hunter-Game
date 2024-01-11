@@ -15,7 +15,7 @@ Key Features:
 
 Intuitive and simple rocket control
 Dynamic obstacle challenges
-Score tracking for competitive gameplay
+Score tracking for competitive and engaging gameplay.
 
 
 How to Play:
@@ -30,3 +30,4 @@ Challenge friends to beat your high score!
 Open the project in Scratch or upload it to the Scratch online platform.  ( https://scratch.mit.edu/ )
 
 Feel free to report issues
+(adityashinde932003@gmail.com)
